@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## VexFlow
+
+VexFlow es una librería de código abierto para renderizar partituras musicales en el navegador web. 
+
+No es necesario instalar los types aparte ya que en vexflow 5 se puede importar directamente, es decir que ya vienen con sus types integrados.
+
 ## Getting Started
 
 First, run the development server:
