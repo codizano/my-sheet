@@ -1,0 +1,206 @@
+[
+    {
+        "id": "group_1_scales",
+        "description": "C Major Scale Run",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "d/4"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "q"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "c/3"
+                ],
+                "duration": "q",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "b/2"
+                ],
+                "duration": "q",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "a/2"
+                ],
+                "duration": "q",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "g/2"
+                ],
+                "duration": "q",
+                "clef": "bass"
+            }
+        ]
+    },
+    {
+        "id": "group_2_chords",
+        "description": "Simple Chords",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "c/4",
+                    "e/4",
+                    "g/4"
+                ],
+                "duration": "h"
+            },
+            {
+                "keys": [
+                    "g/4",
+                    "b/4",
+                    "d/5"
+                ],
+                "duration": "h"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "c/3"
+                ],
+                "duration": "h",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "g/2"
+                ],
+                "duration": "h",
+                "clef": "bass"
+            }
+        ]
+    },
+    {
+        "id": "group_3_mixed",
+        "description": "Mixed Rhythm",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "q"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "c/3",
+                    "e/3",
+                    "g/3"
+                ],
+                "duration": "w",
+                "clef": "bass"
+            }
+        ]
+    },
+    {
+        "id": "group_4_random",
+        "description": "Random Intervals",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "d/4"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "h"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "d/3"
+                ],
+                "duration": "q",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "a/2"
+                ],
+                "duration": "q",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "d/2"
+                ],
+                "duration": "h",
+                "clef": "bass"
+            }
+        ]
+    }
+]
