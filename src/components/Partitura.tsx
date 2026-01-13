@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
+import mockNotes from '../data/mockNotes.json';
 
 export default function Partitura() {
     const containerRef = useRef<HTMLDivElement>(null);
@@ -27,11 +28,11 @@ export default function Partitura() {
             );
 
             // Ajustar el tamaño del renderer
-            renderer.resize(500, 400);
+            renderer.resize(1100, 400);
             const context = renderer.getContext();
 
             // Pentagrama superior (clave de sol)
-            const staveTreble = new Stave(10, 40, 250);
+            const staveTreble = new Stave(10, 40, 1000);
             staveTreble.addClef('treble');
             staveTreble.addKeySignature('C');
             staveTreble.addTimeSignature('4/4');
@@ -58,12 +59,21 @@ export default function Partitura() {
 
             // Notas para clave de sol 
 
+            // IMPLEMENTACIÓN ANTERIOR (ESTÁTICA) - COMENTADA
+            /*
             const trebleNoteData: NoteData[] = [
                 { keys: ['c/4'], duration: 'q' },
                 { keys: ['e/4'], duration: 'q' },
                 { keys: ['g/4'], duration: 'q' },
                 { keys: ['b/4'], duration: 'q' }
             ];
+            */
+
+            // NUEVA IMPLEMENTACIÓN - USANDO MOCK DATA
+            // Usamos el primer grupo de notas del JSON por defecto
+            // Casteamos a 'any' temporalmente o aseguramos que los tipos coincidan
+            const currentGroup = mockNotes[2];
+            const trebleNoteData: NoteData[] = currentGroup.trebleNoteData as NoteData[];
 
             const trebleNotes = trebleNoteData.map(({ keys, duration }) =>
                 new StaveNote({
@@ -75,19 +85,26 @@ export default function Partitura() {
 
 
             // Pentagrama inferior (clave de fa)
-            const staveBass = new Stave(10, 140, 250);
+            const staveBass = new Stave(10, 140, 1000);
             staveBass.addClef('bass');
             staveBass.addKeySignature('C');
             staveBass.addTimeSignature('4/4');
             staveBass.setContext(context).draw();
 
+            // Notas para clave de fa
 
+            // IMPLEMENTACIÓN ANTERIOR (ESTÁTICA) - COMENTADA
+            /*
             const bassNoteData: NoteData[] = [
                 { keys: ['c/3', 'e/3'], duration: 'q' },
                 { keys: ['f/3'], duration: 'q' },
                 { keys: ['g/3'], duration: 'q' },
                 { keys: ['b/3'], duration: 'q' }
             ];
+            */
+
+            // NUEVA IMPLEMENTACIÓN - USANDO MOCK DATA
+            const bassNoteData: NoteData[] = currentGroup.bassNoteData as NoteData[];
 
             // clef = 'bass' por defecto para no repetirlo en cada nota, 
             // este clef bass permite que las notas se dibujen en la parte inferior de manera correcta
