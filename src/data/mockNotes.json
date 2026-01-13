@@ -1,0 +1,1234 @@
+[
+    {
+        "id": "invention_1_4_compases",
+        "description": "Invención No. 1 en Do Mayor - Compases 1-4",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/6"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "q",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "g/3"
+                ],
+                "duration": "q",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "8",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "8",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "8",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "8",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "8",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "8",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "8",
+                "clef": "bass"
+            },
+            {
+                "keys": [
+                    "g/3"
+                ],
+                "duration": "8",
+                "clef": "bass"
+            }
+        ]
+    },
+    {
+        "id": "invention_2_4_compases",
+        "description": "Invención No. 2 en Do Mayor - Compases 1-4",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/5"
+                ],
+                "duration": "8"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/6"
+                ],
+                "duration": "16"
+            }
+        ]
+    },
+    {
+        "id": "invention_3_4_compases",
+        "description": "Invención No. 3 en Do Mayor - Compases 1-4",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "8"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/2"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/2"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/2"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/2"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/2"
+                ],
+                "duration": "8"
+            }
+        ]
+    },
+    {
+        "id": "invention_4_4_compases",
+        "description": "Invención No. 4 en Do Mayor - Compases 1-4",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "b/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "b/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/3"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "g/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/3"
+                ],
+                "duration": "q"
+            },
+            {
+                "keys": [
+                    "e/3"
+                ],
+                "duration": "8"
+            }
+        ]
+    },
+    {
+        "id": "invention_5_4_compases",
+        "description": "Invención No. 5 en Do Mayor - Compases 1-4",
+        "trebleNoteData": [
+            {
+                "keys": [
+                    "e/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/5"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/3"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "a/3"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/3"
+                ],
+                "duration": "8"
+            }
+        ],
+        "bassNoteData": [
+            {
+                "keys": [
+                    "g/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "b/3"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/4"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "b/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "a/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "g/3"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "f/3"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "g/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "f/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "e/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "d/3"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "c/3"
+                ],
+                "duration": "16"
+            },
+            {
+                "keys": [
+                    "d/3"
+                ],
+                "duration": "8"
+            },
+            {
+                "keys": [
+                    "c/3"
+                ],
+                "duration": "8"
+            }
+        ]
+    }
+]
